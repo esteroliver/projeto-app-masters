@@ -1,2 +1,4 @@
-# projeto-app-masters
+# Projeto - App Masters
+Projeto para o processo seletivo da empresa App Masters.\
+Site da App Masters: https://www.appmasters.io/
  
